@@ -1,0 +1,22 @@
+1. First download the following Software:
+
+Download Flex 2.5.4a: http://gnuwin32.sourceforge.net/packages/flex.htm
+
+Download Bison 2.4.1: http://gnuwin32.sourceforge.net/packages/bison.htm
+
+Download DevC++: https://www.bloodshed.net/
+
+2. Installing the Software and setting up the environment variable (path):
+
+Install Flex at e.g.“C:\GnuWin32”
+
+Install Bison at e.g. “C:\GnuWin32”
+
+Install DevC++ at e.g. “C:\Dev-Cpp”
+
+Open Environment Variables.
+
+Next, click on Environment Variable and set the path variable.
+
+Add “C:\GnuWin32\bin; C:\Dev-Cpp\TDM-GCC-64\bin” to path.
+
